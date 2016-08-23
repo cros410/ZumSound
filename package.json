@@ -1,0 +1,15 @@
+{
+  "name": "registro_paquetes",
+  "version": "1.0.0",
+  "description": "Aplicacion para registro de usuario de Ftp",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "nodemon server/app.js"
+  },
+  "author": "Christian Valencia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta5"
+  }
+}
